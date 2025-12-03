@@ -1,0 +1,14 @@
+#pip install -r requirements.txt
+#pip install -g @vue/cli
+#vue create student-frontend
+#pip install element-plus @element-plus/icons-vue
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pyjwt
+bcrypt
+aiomysql
+python-dotenv
+email-validator   #验证电子邮件格式
+python-multipart
